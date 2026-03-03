@@ -2,20 +2,6 @@
 
 A production-grade Flutter mobile application for managing hospital bed allocations in real-time with an intuitive dashboard, analytics, and multi-facility support.
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Architecture](#-architecture)
-- [Getting Started](#-getting-started)
-- [API Integration](#-api-integration)
-- [Screens & Functionality](#-screens--functionality)
-- [Configuration](#-configuration)
-- [Development](#-development)
-- [Production API](#-production-api)
-- [Contributing](#-contributing)
-
 ## ✨ Features
 
 ### Core Features
